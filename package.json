@@ -1,0 +1,11 @@
+{
+    "name": "prismy",
+    "version": "0.0.1-alpha-1-aloha",
+    "scripts": {
+        "res:build": "rescript",
+        "res:dev": "rescript -w"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {}
+}
